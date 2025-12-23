@@ -25,4 +25,4 @@ SEARCH_QUERIES = [
 ]
 
 SEARCH_LOCATION = "Germany"
-SEARCH_LIMIT = 500  # Jobs per weekly scrape
+SEARCH_LIMIT = 100  # Jobs per weekly scrape
